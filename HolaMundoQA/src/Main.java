@@ -5,5 +5,7 @@ public class Main {
         int i = 10;
         
         //comentario para update project desde IntelliJ
+        
+        int j=5;
     }
 }
