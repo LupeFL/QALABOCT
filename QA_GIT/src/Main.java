@@ -7,5 +7,13 @@ public class Main {
 
         //modificado desde intellij
         int mofidicado = 5;
+
+        int commit=3;
+
+        for (int o =0;o<=10;o++)
+        {
+            //hola mundo
+            System.out.println("Ddesde IntelliJ");
+        }
     }
 }
